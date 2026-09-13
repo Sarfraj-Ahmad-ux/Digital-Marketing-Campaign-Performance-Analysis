@@ -79,7 +79,7 @@ Marketing teams often struggle to identify which channels, campaign types, and a
 ## 9. Dashboard
 Below is the interactive Power BI Digital Marketing Campaign Performance Dashboard developed for this analysis:
 
-![Digital Marketing Campaign Performance Dashboard](./dashboard.png)
+![Digital Marketing Campaign Performance Dashboard](https://github.com/Sarfraj-Ahmad-ux/Project2-Digital-Marketing-Campaign-Performance-Analysis/blob/dd60d9d07ff804f83a75223b817348b7abdcf70e/5-Dashboard/Dashboard%20Image.png)
 
 ---
 
